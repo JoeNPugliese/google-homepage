@@ -1,5 +1,3 @@
-/* CSS Styles */
-
 #header {
 	background-color: white;
 	height: 60px;
@@ -129,7 +127,6 @@ form {
 	font-family: Arial;
 	font-weight: 500;
 	font-size: .8em;
-	/*line-height: .5;*/
 	top: auto;
 	bottom: auto;
 	margin-right: 30px;
